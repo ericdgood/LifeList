@@ -1,0 +1,9 @@
+/Users/a206621635/Projects/LifeList/CommonLib/bin/Debug/netstandard2.0/CommonLib.deps.json
+/Users/a206621635/Projects/LifeList/CommonLib/bin/Debug/netstandard2.0/CommonLib.dll
+/Users/a206621635/Projects/LifeList/CommonLib/bin/Debug/netstandard2.0/CommonLib.pdb
+/Users/a206621635/Projects/LifeList/CommonLib/obj/Debug/netstandard2.0/CommonLib.csprojAssemblyReference.cache
+/Users/a206621635/Projects/LifeList/CommonLib/obj/Debug/netstandard2.0/CommonLib.csproj.CoreCompileInputs.cache
+/Users/a206621635/Projects/LifeList/CommonLib/obj/Debug/netstandard2.0/CommonLib.AssemblyInfoInputs.cache
+/Users/a206621635/Projects/LifeList/CommonLib/obj/Debug/netstandard2.0/CommonLib.AssemblyInfo.cs
+/Users/a206621635/Projects/LifeList/CommonLib/obj/Debug/netstandard2.0/CommonLib.dll
+/Users/a206621635/Projects/LifeList/CommonLib/obj/Debug/netstandard2.0/CommonLib.pdb

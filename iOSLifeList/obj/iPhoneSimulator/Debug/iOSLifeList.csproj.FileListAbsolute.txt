@@ -1,0 +1,15 @@
+/Users/a206621635/Projects/LifeList/iOSLifeList/bin/iPhoneSimulator/Debug/iOSLifeList.exe
+/Users/a206621635/Projects/LifeList/iOSLifeList/bin/iPhoneSimulator/Debug/iOSLifeList.pdb
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/iOSLifeList.csprojAssemblyReference.cache
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/iOSLifeList.csproj.CoreCompileInputs.cache
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/iOSLifeList.exe
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/iOSLifeList.pdb
+/Users/a206621635/Projects/LifeList/iOSLifeList/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/a206621635/Projects/LifeList/iOSLifeList/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/a206621635/Projects/LifeList/iOSLifeList/obj/iPhoneSimulator/Debug/iOSLifeList.csproj.CopyComplete
